@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**yadavadit/yadavadit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently pursuing Masters In Information Systems 
 
@@ -20,4 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 
 - ⚡ Fun fact: From walking the runway to coding away, I'm a fashion model and computer engineer who knows how to keep both my wardrobe and code look sharp!
--->
+
