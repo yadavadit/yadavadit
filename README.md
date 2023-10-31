@@ -11,7 +11,7 @@
 
 - 💬 Ask me about how I plan to merge my love for technology with my passion for healthcare and fashion
 
-- 📫 How to reach me: yadav.adit@northeaster.edu
+- 📫 How to reach me: yadav.adit@northeastern.edu
 
 - 😄 Pronouns: she/her
 
