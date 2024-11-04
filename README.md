@@ -1,15 +1,15 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently pursuing Masters In Information Systems 
+- 🔭 I graduated in Masters In Information Systems 
 
-- 🌱 I’m currently learning Advance Data Science, Database Management Systems, Tableau
+- 🌱 I’m currently working / learning Advance Data Science, Database Management Systems, Tableau
 
-- 🤔 I’m looking for co-op/ internships in Data Analyst/ Business Analyst roles
+- 🤔 I’m looking for Full-time opportunities in Data Science/ Data Analyst/ Business Analyst roles
 
-- 🏢 Working as a Research Assitant at Northeastern University, where I designed Tableau-based student progress reports for online healthcare courses, analyzed progress       stoppers, and devised data-driven strategies that helped reduce dropout rates
+- 🏢 Working as a AI ML Engineer in Boston, where I designed Custome based LLMs as per Business Use-cases
 
-- 💬 Ask me about how I plan to merge my love for technology with my passion for healthcare and fashion
+- 💬 Ask me about how I plan to merge my love for technology with my passion for AI and fashion
 
 - 📫 How to reach me: yadav.adit@northeastern.edu
 
