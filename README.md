@@ -1,17 +1,15 @@
 ### Hi there 👋
 
 
-- 🔭 I graduated in Masters In Information Systems 
+- 🔭 I graduated in Masters In Information Systems- Data Science fromNortheastern University
 
-- 🌱 I’m currently working / learning Advance Data Science, Database Management Systems, Tableau
-
-- 🤔 I’m looking for Full-time opportunities in Data Science/ Data Analyst/ Business Analyst roles
+- 🌱 I’m currently working & learning Advance Data Science, AI/ML
+  
+- 🤔 I’m looking for Full-time opportunities in Data Science/ AIML Engineer
 
 - 🏢 Working as a AI ML Engineer in Boston, where I designed Custome based LLMs as per Business Use-cases
 
-- 💬 Ask me about how I plan to merge my love for technology with my passion for AI and fashion
-
-- 📫 How to reach me: yadav.adit@northeastern.edu
+- 📫 How to reach me: yaditi1303@gmail.com | Linkedin : https://www.linkedin.com/in/yaditi/
 
 - 😄 Pronouns: she/her
 
