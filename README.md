@@ -13,7 +13,6 @@ With a Masters of Computer Engineering and 3+ yrs of experience, I've built a so
 
 ## What I Bring To The Table ?
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/GoogleBigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
